@@ -1,0 +1,59 @@
+/**{
+  border: 1px solid rgb(110, 18, 167);
+}*/
+.main{
+  margin: auto;
+}
+a:hover{
+  text-decoration: underline;
+}
+a{
+  text-decoration: none;
+}
+
+.box1 img{
+  width:150px;
+  height:150px;
+}
+.dude23{
+
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 100px;
+  width: 80vw;
+  font-size: 25px;
+  font-family: fantasy;
+  width:80vw;
+
+}
+
+
+.image-container{
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  width:80vw;
+  max-width:80vw;
+  margin-top:30px;
+  margin-left: 200px;
+  margin-right: 200px;
+
+}
+img{
+  padding: 40px;
+}
+.footer{
+  border-top: 4px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50vw;
+  text-align: center;
+}
+.dude{
+
+  text-align: right;
+  margin-right: 250px;
+  margin-top: 10px;
+  font-size: 30px;
+  font-family: cursive;
+}
